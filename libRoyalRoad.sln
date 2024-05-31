@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libRoyalRoad", "libRoyalRoad\libRoyalRoad.csproj", "{E9406D24-F44F-4F8F-B375-E1A3DAB40BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoyalTerminal", "RoyalTerminal\RoyalTerminal.csproj", "{7AEAECF3-FEF5-4CC8-B6A0-A14EFFF8DE1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9406D24-F44F-4F8F-B375-E1A3DAB40BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9406D24-F44F-4F8F-B375-E1A3DAB40BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9406D24-F44F-4F8F-B375-E1A3DAB40BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9406D24-F44F-4F8F-B375-E1A3DAB40BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEAECF3-FEF5-4CC8-B6A0-A14EFFF8DE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEAECF3-FEF5-4CC8-B6A0-A14EFFF8DE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEAECF3-FEF5-4CC8-B6A0-A14EFFF8DE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEAECF3-FEF5-4CC8-B6A0-A14EFFF8DE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
